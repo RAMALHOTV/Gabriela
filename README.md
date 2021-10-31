@@ -151,4 +151,6 @@ http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/106725.mp4
 http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/106726.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gabriela (Globoplay) S01 E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OZoWlrM6jYxD1gpYo8e6qbdOS3.jpg" group-title="Novela - Gabriela",Gabriela (Globoplay) S01 E76
 http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/106727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gabriela (Globoplay) S01 E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OZoWlrM6jYxD1gpYo8e6qbdOS3.jpg" group-title="Novela - Gabriela",Gabriela (Globoplay) S01 E77
+http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/106728.mp4
 
