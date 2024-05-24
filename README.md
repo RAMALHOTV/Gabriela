@@ -1,7 +1,7 @@
 <item>
 <title>[B]GLOBO RPC [/B]</title>
-<link>http://xp2.hostinggonemoreso10.com:2082/live/Tourobox1-XSEgckOrIb/YWcK0z7UFl/505.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537$nome=[COLOR green]GLOBO RPC CURITIBA[/COLOR]</link>
-<link>http://xp2.hostinggonemoreso10.com:2082/live/Tourobox1-XSEgckOrIb/YWcK0z7UFl/817.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537$nome=[COLOR yellow]GLOBO RPC MARINGA [/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=IPTV;&maxbitrate=0&buffer=8080&url=http://xp2.hostinggonemoreso10.com:2082/live/Tourobox1-XSEgckOrIb/YWcK0z7UFl/505.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537$nome=[COLOR green]GLOBO RPC CURITIBA[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=IPTV;&maxbitrate=0&buffer=8080&url=http://xp2.hostinggonemoreso10.com:2082/live/Tourobox1-XSEgckOrIb/YWcK0z7UFl/817.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537$nome=[COLOR yellow]GLOBO RPC MARINGA [/COLOR]</link>
 <thumbnail>https://imgur.com/5RQ1PxL.png</thumbnail>
 <fanart>https://imgur.com/5RQ1PxL.png</fanart>
 <info>TV Globo é uma rede de televisão comercial aberta brasileira. É assistida por mais de 200 milhões de pessoas diariamente, sejam elas no Brasil ou no exterior.</info>
