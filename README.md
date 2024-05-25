@@ -1,4 +1,14 @@
 <item>
+<title>[B]Addon RamalhoIPTV (ussen o F4mTester-inputstream) [/B]</title>
+<link>plugin://</link>
+<link>plugin://</link>
+<thumbnail>https://i.imgur.com/OhHEvFm.jpg</thumbnail>
+<fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
+<info>[COLOR deeppink]|[/COLOR]Colabere com o Addon RamalhoIPTV (44)998656144[COLOR deeppink]|[/COLOR]</info>
+</item>
+
+
+<item>
 <title>[B]GLOBO RPC [/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=IPTV;&maxbitrate=0&buffer=8080&url=http://xp2.hostinggonemoreso10.com:2082/live/Tourobox1-XSEgckOrIb/YWcK0z7UFl/505.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537$nome=[COLOR green]GLOBO RPC CURITIBA[/COLOR]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=IPTV;&maxbitrate=0&buffer=8080&url=http://xp2.hostinggonemoreso10.com:2082/live/Tourobox1-XSEgckOrIb/YWcK0z7UFl/817.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537$nome=[COLOR yellow]GLOBO RPC MARINGA [/COLOR]</link>
